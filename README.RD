@@ -1,2 +1,2 @@
 <h4>PRODUCT</h4>
-<img src="capture/img"/>
+<img src="capture/img.png"/>
